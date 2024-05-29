@@ -1,0 +1,21 @@
+# node_modules 폴더를 무시
+node_modules
+
+# 빌드 아티팩트 폴더 무시
+dist
+build
+
+# 특정 파일 무시
+# src/legacy-code.js
+
+# 특정 디렉토리 무시
+# src/vendor/
+
+# 모든 HTML 파일 무시
+# *.html
+
+# 모든 JSON 파일 무시
+# *.json
+
+# 특정 서브 디렉토리 내의 모든 파일 무시
+# public/**/*.js
